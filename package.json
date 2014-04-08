@@ -3,7 +3,7 @@
   "version": "0.1.12",
   "description": "Production Quality Meteor Deplouments",
   "dependencies": {
-    "nodemiral": "0.3.x",
+    "nodemiral": "git://github.com/hiddenswitch/nodemiral.git",
     "cjson": "0.2.1",
     "uuid": "1.4.x",
     "colors": "0.6.x"
@@ -14,7 +14,7 @@
   "author": "Arunoda Susiripala <arunoda.susiripala@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/arunoda/meteor-up.git"
+    "url": "git://github.com/hiddenswitch/meteor-up.git"
   },
   "license": "MIT"
 }
